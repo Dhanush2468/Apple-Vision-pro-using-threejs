@@ -1,4 +1,4 @@
-## <a name="tech-stack">⚙️ Output</a>
+## <a name="tech-stack"> Output</a>
 
 <div align="center">
 
